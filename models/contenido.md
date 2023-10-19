@@ -1,0 +1,1 @@
+/models/: Archivos PHP con lógica de negocios y acceso a datos (si fuera necesario en futuras implementaciones).
